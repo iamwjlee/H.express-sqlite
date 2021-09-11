@@ -3,5 +3,5 @@
 ## Test setup
 ```
 npm install
-node app.js
+node .\server\app.js
 ```
